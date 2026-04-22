@@ -89,6 +89,6 @@ The dashboard includes the following KPI indicators:
 
 ## 💼 Author
 **Prafull Wahatule**  
-Aspiring Data Analyst | SQL | Power BI | Python | Excel
+Data Analyst | SQL | Power BI | Python
 
 LinkedIn: www.linkedin.com/in/prafullwahatule
