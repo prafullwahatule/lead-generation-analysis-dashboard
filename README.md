@@ -1,4 +1,8 @@
 # 📊 Lead Generation Analysis Dashboard | Power BI
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
+![CSV](https://img.shields.io/badge/Data-CSV-green)
+![Status](https://img.shields.io/badge/Project-Completed-success)
+![License](https://img.shields.io/badge/License-MIT-blue)
 
 ## 🚀 Project Overview
 This project focuses on building a **dynamic Power BI dashboard** for analyzing lead generation performance of digital marketing agencies.
